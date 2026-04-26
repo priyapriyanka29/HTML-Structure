@@ -10,7 +10,7 @@ A basic project demonstrating the structure of an HTML web page.
 * Basic tags and elements
          
 ## 🛠️ Tech Used
-
+                       
 * HTML
 
 ## ▶️ Run
