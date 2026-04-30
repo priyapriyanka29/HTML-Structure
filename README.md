@@ -13,7 +13,7 @@ A basic project demonstrating the structure of an HTML web page.
                        
 * HTML
 
-## ▶️ Run                           
+## ▶️ Run                                        
 
 Open index.html in browser
 
