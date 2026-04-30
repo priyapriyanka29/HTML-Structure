@@ -8,7 +8,7 @@ A basic project demonstrating the structure of an HTML web page.
 
 * HTML layout structure
 * Basic tags and elements
-         
+                             
 ## 🛠️ Tech Used
                        
 * HTML
